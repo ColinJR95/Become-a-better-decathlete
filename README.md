@@ -1,4 +1,5 @@
 # Become-a-better-decathlete
+#Practice using resposive image and design techniques
 
 <!doctype html>
 <html lang="en">
